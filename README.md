@@ -4,7 +4,7 @@ An end-to-end data analysis project that answers one business question: **which 
 
 The project uses **Excel** for data cleaning and exploration, **MySQL** for database design and analysis queries, and **Power BI** for an interactive dashboard.
 
-![Power BI dashboard](Screenshot%202026-10-19%20172934.png)
+![Power BI dashboard](dashboard.png)
 
 ## Dataset
 
@@ -84,11 +84,11 @@ The file `02_analysis_queries.sql` contains 6 queries using joins, `CASE`, subqu
 
 | File | Description |
 | --- | --- |
-| `marketing_project_final (1).xlsx` | Cleaned data, Cleaning Log, PivotTables, PivotCharts, and Excel dashboard |
+| `customer_marketing_analysis.xlsx` | Cleaned data, Cleaning Log, PivotTables, PivotCharts, and Excel dashboard |
 | `01_create_tables.sql` | Creates the database, 4 tables, and the campaigns lookup data |
 | `02_analysis_queries.sql` | The 6 analysis queries |
 | `powerbi_project.pbix` | Power BI dashboard |
-| `Screenshot 2026-10-19 172934.png` | Dashboard screenshot |
+| `dashboard.png` | Dashboard screenshot |
 
 ## Author
 
